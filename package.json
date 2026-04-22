@@ -1,0 +1,24 @@
+{
+  "name": "mern-mcp-dev-assistant",
+  "version": "1.0.0",
+  "description": "This is a small demo project which shows the power of MCP architecture. It has MCP server,MCP host,client and React UI and an express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskganesh21/mern-mcp-dev-assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mskganesh21/mern-mcp-dev-assistant/issues"
+  },
+  "homepage": "https://github.com/mskganesh21/mern-mcp-dev-assistant#readme",
+  "dependencies": {
+    "axios": "^1.15.2"
+  }
+}
